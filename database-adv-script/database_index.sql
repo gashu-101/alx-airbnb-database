@@ -12,3 +12,4 @@ CREATE INDEX idx_properties_id ON properties(id);
 
 -- Create an index on the 'property_id' column of the reviews table (used in JOIN and WHERE clauses)
 CREATE INDEX idx_reviews_property_id ON reviews(property_id);
+EXPLAIN ANALYZE;
