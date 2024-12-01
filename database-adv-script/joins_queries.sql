@@ -32,6 +32,8 @@ SELECT
     bookings.date AS booking_date
 FROM 
     users
+ORDER BY
+    user_id
 FULL OUTER JOIN 
     bookings 
 ON 
