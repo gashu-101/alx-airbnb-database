@@ -44,3 +44,4 @@ JOIN
     payments AS pay 
 ON 
     b.payment_id = pay.id;
+EXPLAIN ANALYZE;
