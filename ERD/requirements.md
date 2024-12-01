@@ -92,4 +92,4 @@ Below is the visual representation of the ERD:
 
 1. Open the repository in your browser or clone it locally.
 2. Navigate to the `ERD` directory.
-3. View the image file `airbnb-erd.png` to see the ER diagram.
+3. View the image file `erd-airbnb-drawio.png` to see the ER diagram.
